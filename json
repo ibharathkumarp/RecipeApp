@@ -1,0 +1,14 @@
+{
+  "results": [
+    {
+      "id": 101,
+      "title": "Inception",
+      "vote_average": 8.8
+    },
+    {
+      "id": 102,
+      "title": "Interstellar",
+      "vote_average": 8.6
+    }
+  ]
+}
